@@ -3,6 +3,7 @@
 - Software Link: https://phpgurukul.com/?sdm_process_download=1&download_id=17826
 - Version: 1.0
 - Tested On: Kali Linux 6.1.27-1kali1 (2023-05-12) x86_64 + XAMPP 7.4.30
+- https://www.exploit-db.com/exploits/51791
 
 ## Description
 On the book-nurse.php page, the bookid parameter is vulnerable to SQL Injection vulnerability.
